@@ -1,0 +1,6 @@
+2026-11-01 09:25:40 ERROR POST /api/mua-ve
+2026-11-01 09:29:11 ERROR POST /api/thanh-toan-qr
+2026-11-01 09:40:14 ERROR POST /api/mua-ve
+2026-11-01 09:48:33 ERROR POST /api/giu-ghe
+2026-11-01 09:52:49 ERROR POST /api/thanh-toan-qr
+2026-11-01 10:05:42 ERROR POST /api/huy-ve
